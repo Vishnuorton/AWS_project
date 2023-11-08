@@ -4,6 +4,8 @@ In this project we create two instance  Production and  Disaster recovery instan
 in production in case if our production server down.we have DR server that contain copy of production server
 application file so we get high availailty and disater recovery.
 
+This project does't contain R53 and only support http protocol.
+
 project flow :-
 
 production server ---> s3 ---> DR server

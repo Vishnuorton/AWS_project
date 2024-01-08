@@ -12,6 +12,8 @@ production server ---> s3 ---> DR server
 
 production server and DR server contain wordpress installed . we connect both server with mysql database.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 check terraform.tfvars file to change the values of pre-defined variable of the project.
 

@@ -14,6 +14,7 @@ production server and DR server contain wordpress installed . we connect both se
 
 -------------------------------------------------------------------------------------------------------------------------
 
+
 check terraform.tfvars file to change the values of pre-defined variable of the project.
 
 i make snipets in the code to explain flow of the code.
